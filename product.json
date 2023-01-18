@@ -1,0 +1,32 @@
+[
+    {
+        "name":"Redmi 9 Power",
+        "price":10000,
+        "featured":true,
+        "brand":"mi"
+    },
+    {
+        "name":"Redmi note",
+        "price":11000,
+        "featured":true,
+        "brand":"mi"
+    },
+    {
+        "name":"Samsung Galaxy",
+        "price":15000,
+        "featured":true,
+        "brand":"Samsung"
+    },
+    {
+        "name":"Realme X7 max",
+        "price":19000,
+        "featured":true,
+        "brand":"Realme"
+    },
+    {
+        "name":"iphone X",
+        "price":100000,
+        "featured":true,
+        "brand":"apple"
+    }
+]
