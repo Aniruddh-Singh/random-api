@@ -6,6 +6,8 @@ const connectDB = require("./db/connect");
 
 const port = process.env.PORT || 5000;
 
+mongoose.set("strictQuery", true)
+
 rest.get("/", (req, resp) => {
     resp.send("<h1>Namaste, mera naam Aniruddh Singh hai.</h1>");
 });
